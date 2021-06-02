@@ -1,1 +1,1 @@
-# deep-coherent-exploration-for-continuous-control
+# Deep Coherent Exploration for Continuous Control
